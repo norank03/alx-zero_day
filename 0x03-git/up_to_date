@@ -1,0 +1,7 @@
+cd root 
+cd alx-zero_day
+git pull
+cd 0x01-git
+touch up_to_date
+git add .git commit -m "How to be up to date in git"
+git push
